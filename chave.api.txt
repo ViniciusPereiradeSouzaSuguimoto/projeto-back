@@ -1,5 +1,0 @@
-AIzaSyAvvbASS6-HDAWik2XkNG7JbYzjjk5swTA
-
-viniciussuguimoto - 2MAOfxEJMoVfrzOu
-
-mongodb+srv://viniciussuguimoto:2MAOfxEJMoVfrzOu@cluster0.mshd2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
